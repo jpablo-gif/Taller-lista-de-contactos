@@ -1,3 +1,5 @@
+package com.contactlist.Model;
+
 public class Contact{
     private String name;
     private String phoneNumber;
